@@ -30,8 +30,8 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela PUCRS, sou desenvolve
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielaprog&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
-💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-📧 Email: seu-email@exemplo.com
+💼 [LinkedIn](https://www.linkedin.com/in/gabriela-silveira-b7711221a/)  
+📧 Email: gabrielasilveira309@gmail.com
 
 
 
