@@ -25,9 +25,16 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela PUCRS, sou desenvolve
 
 ## 📊 Estatísticas do GitHub
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielaprog&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/Gabrielaprog">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielaprog&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielaprog&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielaprog&layout=compact&theme=radical)
+
+
+
 
 ## 📫 Como me encontrar
 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-silveira-b7711221a/)  
